@@ -1,9 +1,22 @@
 body {
-  background-color: #CCDAD1;
+  background-color: #1F1300;
+  color: #FFC15E;
+}
+
+h1{
+  color: #CC5803;
+}
+
+h2{
+  color: #F7934C;
 }
 
 img{
   border-radius: 50%;
 
+}
+
+#name{
+  color: #F7B05B;
 }
 
