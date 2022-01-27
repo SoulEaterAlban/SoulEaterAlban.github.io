@@ -18,5 +18,34 @@ img{
 
 #name{
   color: #F7B05B;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+#born-state{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pride{
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.html{
+  font-size: 40px;
+}
+
+.java{
+  font-size: 35px;
+}
+
+.c{
+  font-size: 30px;
+}
+
+.ouvinte{
+  font-size: 25px;
+}
+
+.assertivo{
+  font-size: 18px;
+}
