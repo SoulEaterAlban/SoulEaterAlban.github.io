@@ -7,7 +7,7 @@
 
 - 📫 Como chegar até mim **brenovinioli@gmail.com**
 
-- 📄 Minha experiencias [Fiz um técnico em Análise e Desenvolvimento de Sistemas e agora estudo na Trybe!](Fiz um técnico em Análise e Desenvolvimento de Sistemas e agora estudo na Trybe!)
+- 📄 Minha experiencias (Fiz um técnico em Análise e Desenvolvimento de Sistemas e agora estudo na Trybe!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
